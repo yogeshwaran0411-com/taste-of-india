@@ -1,0 +1,6 @@
+{
+  "name": "TASTEOFINDIA - Discover the Flavours of India",
+  "description": "Explore authentic Indian recipes from all 28 states and 8 union territories, share family culinary traditions, connect with food creators, and unlock premium recipe downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
